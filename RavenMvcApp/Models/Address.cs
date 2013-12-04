@@ -1,0 +1,12 @@
+﻿namespace RavenMvcApp.Models
+{
+    public class Address
+    {
+        public string NickName { get; set; }
+        public string Street { get; set; }
+        public string Suite { get; set; }
+        public string City { get; set; }
+        public string State { get; set; }
+        public string Zip { get; set; }
+    }
+}

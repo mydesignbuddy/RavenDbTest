@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDbTest", "RavenDbTest\RavenDbTest.csproj", "{45092852-D118-43C4-8420-0819A10D7EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDb2Test", "RavenDb2Test\RavenDb2Test.csproj", "{FB77F1C5-70ED-41E7-A8A5-A611C5A3E6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenMvcApp", "RavenMvcApp\RavenMvcApp.csproj", "{BE6C587F-01FE-4EA5-87D1-9A016DEF7EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45092852-D118-43C4-8420-0819A10D7EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45092852-D118-43C4-8420-0819A10D7EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45092852-D118-43C4-8420-0819A10D7EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45092852-D118-43C4-8420-0819A10D7EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB77F1C5-70ED-41E7-A8A5-A611C5A3E6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB77F1C5-70ED-41E7-A8A5-A611C5A3E6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB77F1C5-70ED-41E7-A8A5-A611C5A3E6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB77F1C5-70ED-41E7-A8A5-A611C5A3E6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6C587F-01FE-4EA5-87D1-9A016DEF7EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6C587F-01FE-4EA5-87D1-9A016DEF7EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6C587F-01FE-4EA5-87D1-9A016DEF7EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6C587F-01FE-4EA5-87D1-9A016DEF7EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
